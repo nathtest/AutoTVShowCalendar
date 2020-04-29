@@ -16,4 +16,4 @@ Then sync the calendar on their phone (or any connected device) with their googl
 
 --  
 
-App uses Wikipedia database for tv show: listing, diffusion date and tv channel name.
+App uses https://www.tvmaze.com/api rest api to get tv show: listing, scheduled date and tv channel name.
