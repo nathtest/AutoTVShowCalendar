@@ -1,7 +1,8 @@
 # AutoTVShowCalendar
 An AutoTVShowCalendar google chrome extension.  
 
---dev goal--  
+--dev goal--
+
 -create a unique customized calendar on your google account 
 -search for tv shows and subscribe to them 
 -each sub is added to the customized calendar 
